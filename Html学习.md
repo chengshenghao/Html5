@@ -35,6 +35,20 @@
     1. 下载和安装
 [sublime text 3](http://www.sublimetext.com/)
     该过程非常简单，按照官方文档进行即可，在此不再赘述。
+		（注册码）
+		—– BEGIN LICENSE —–
+		TwitterInc
+		200 User License
+		EA7E-890007
+		1D77F72E 390CDD93 4DCBA022 FAF60790
+		61AA12C0 A37081C5 D0316412 4584D136
+		94D7F7D4 95BC8C1C 527DA828 560BB037
+		D1EDDD8C AE7B379F 50C9D69D B35179EF
+		2FE898C4 8E4277A8 555CE714 E1FB0E43
+		D5D52613 C3D12E98 BC49967F 7652EED2
+		9D2D2E61 67610860 6D338B72 5CF95C69
+		E36B85CC 84991F19 7575D828 470A92AB
+		—— END LICENSE ——
     2. 为sublime text 3安装插件
     sublime text 3支持众多插件，可极大提高我们的开发效率；作为前端的学习者或者初级开发人员建议安装：Emmet、HTML-CSS-JS Prettify、SublimeCodeIntel
     3. 熟悉常用快捷键
