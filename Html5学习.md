@@ -28,7 +28,7 @@
     HTML5的兼容性主要体现在屏幕的大小和小部分极其殊的机型，发现Bug之后改起来也容易得多。这比起让人痛苦不堪的Android碎片化而言确实轻松了不少。
     3. 开发成本较低
     比如要做一个移动端应用程序，为了兼顾到大部分用户，那么一般都会分为Android和IOS两个APP。对于公司而言，势必增加开发成本。如果采用THML5开发呢？嗯哼，大部分工作都可以用HTML5完成，从而缩短开发周期，降低开发成本。
-## 3. HTML5开发工具
+## 3. HTML5开发工具（详见sublime text 3安装插件）
 
 目前，THML5的主流开发工具有：Adobe Dreamweaver、sublime text 3、 WebStorm。在本教程中，我们选用sublime text 3作为开发工具。
 
@@ -49,6 +49,7 @@
 		9D2D2E61 67610860 6D338B72 5CF95C69
 		E36B85CC 84991F19 7575D828 470A92AB
 		—— END LICENSE ——
+
     2. 为sublime text 3安装插件
     sublime text 3支持众多插件，可极大提高我们的开发效率；作为前端的学习者或者初级开发人员建议安装：Emmet、HTML-CSS-JS Prettify、SublimeCodeIntel
     3. 熟悉常用快捷键
